@@ -1,5 +1,2 @@
-Hi There,
+Hi
 
-This is Git practice
-
-"Updated".
