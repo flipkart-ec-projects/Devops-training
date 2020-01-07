@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 change 3
+=======
+Hi
+
+This is "Bugfix 1"
+
+New
+
+>>>>>>> bugfix
